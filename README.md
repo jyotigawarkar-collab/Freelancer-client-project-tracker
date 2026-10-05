@@ -1,3 +1,6 @@
+watch the project demonstration video:
+(https://youtu.be/JElQ6SM6SaM?si=9TQ9rfW52ljjwTsS)
+
 Freelancer Client & Project Tracker
 
 A Python-based desktop application designed to help freelancers manage their clients, projects, payments, and reports in one place.
